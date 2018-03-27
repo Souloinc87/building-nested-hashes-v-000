@@ -10,7 +10,7 @@ def fourth_challenge
         :attitude => "worried"
       }, {
         :name => "Mercutio",
-        :age => "18"<
+        :age => "18",
         :attitude => "hot-headed"
       }
 
@@ -29,7 +29,7 @@ def fourth_challenge
         :age => "44",
         :attitude => "worried"
       }
-        
+
       ]
    }
 }
